@@ -1,0 +1,16 @@
+C:\Users\77011\OneDrive\Документы\GeekBrains\Уроки\Семинар 12_13.06.22\Seminar 3_13.06.22\Task 3\bin\Debug\net6.0\Task 3.exe
+C:\Users\77011\OneDrive\Документы\GeekBrains\Уроки\Семинар 12_13.06.22\Seminar 3_13.06.22\Task 3\bin\Debug\net6.0\Task 3.deps.json
+C:\Users\77011\OneDrive\Документы\GeekBrains\Уроки\Семинар 12_13.06.22\Seminar 3_13.06.22\Task 3\bin\Debug\net6.0\Task 3.runtimeconfig.json
+C:\Users\77011\OneDrive\Документы\GeekBrains\Уроки\Семинар 12_13.06.22\Seminar 3_13.06.22\Task 3\bin\Debug\net6.0\Task 3.dll
+C:\Users\77011\OneDrive\Документы\GeekBrains\Уроки\Семинар 12_13.06.22\Seminar 3_13.06.22\Task 3\bin\Debug\net6.0\ref\Task 3.dll
+C:\Users\77011\OneDrive\Документы\GeekBrains\Уроки\Семинар 12_13.06.22\Seminar 3_13.06.22\Task 3\bin\Debug\net6.0\Task 3.pdb
+C:\Users\77011\OneDrive\Документы\GeekBrains\Уроки\Семинар 12_13.06.22\Seminar 3_13.06.22\Task 3\obj\Debug\net6.0\Task 3.GlobalUsings.g.cs
+C:\Users\77011\OneDrive\Документы\GeekBrains\Уроки\Семинар 12_13.06.22\Seminar 3_13.06.22\Task 3\obj\Debug\net6.0\Task 3.csproj.AssemblyReference.cache
+C:\Users\77011\OneDrive\Документы\GeekBrains\Уроки\Семинар 12_13.06.22\Seminar 3_13.06.22\Task 3\obj\Debug\net6.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77011\OneDrive\Документы\GeekBrains\Уроки\Семинар 12_13.06.22\Seminar 3_13.06.22\Task 3\obj\Debug\net6.0\Task 3.AssemblyInfoInputs.cache
+C:\Users\77011\OneDrive\Документы\GeekBrains\Уроки\Семинар 12_13.06.22\Seminar 3_13.06.22\Task 3\obj\Debug\net6.0\Task 3.AssemblyInfo.cs
+C:\Users\77011\OneDrive\Документы\GeekBrains\Уроки\Семинар 12_13.06.22\Seminar 3_13.06.22\Task 3\obj\Debug\net6.0\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\77011\OneDrive\Документы\GeekBrains\Уроки\Семинар 12_13.06.22\Seminar 3_13.06.22\Task 3\obj\Debug\net6.0\Task 3.dll
+C:\Users\77011\OneDrive\Документы\GeekBrains\Уроки\Семинар 12_13.06.22\Seminar 3_13.06.22\Task 3\obj\Debug\net6.0\ref\Task 3.dll
+C:\Users\77011\OneDrive\Документы\GeekBrains\Уроки\Семинар 12_13.06.22\Seminar 3_13.06.22\Task 3\obj\Debug\net6.0\Task 3.pdb
+C:\Users\77011\OneDrive\Документы\GeekBrains\Уроки\Семинар 12_13.06.22\Seminar 3_13.06.22\Task 3\obj\Debug\net6.0\Task 3.genruntimeconfig.cache
